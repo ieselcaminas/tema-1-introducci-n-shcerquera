@@ -1,3 +1,5 @@
+package primeros.pasos.java;
+
 import java.util.Scanner;
 
 // Un programa que pida el precio real de un producto, el precio rebajado y muestre el descuento realizado
